@@ -87,6 +87,6 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> 
   </a> 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="40" height="40"/> 
+    <img src="https://symfony.com/logos/symfony_black_04.png" alt="symfony" width="40" height="40"/> 
   </a> 
 </p>
