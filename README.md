@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akila Dissanayaka</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://tenor.com/c5X2XxXuQhc.gif">
+<img align="right" alt="Coding" width="500" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif">
 <br>
 
 - 🎓 BSc (Hons) in Software Engineering
