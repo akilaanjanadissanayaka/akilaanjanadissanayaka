@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akila Dissanayaka</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
-
+<div class="tenor-gif-embed" data-postid="2461104302247665708" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/developer-gif-2461104302247665708">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 
 - 🎓 BSc (Hons) in Software Engineering
@@ -87,6 +86,6 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> 
   </a> 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_04.png" alt="symfony" width="40" height="40"/> 
+    <img src="https://symfony.com/logos/symfony_black_03.png" alt="symfony" width="40" height="40"/> 
   </a> 
 </p>
